@@ -1,0 +1,5 @@
+/Users/williamfeng/Work/Chord_Cloud_android/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/classes/debug
+/Users/williamfeng/Work/Chord_Cloud_android/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-cc133d4050f5df250a026258fbed2a939982dbfa.jar
+/Users/williamfeng/Work/Chord_Cloud_android/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-36d2bdff41baaf6a82a1f8c78e837366631584a8.jar
+/Users/williamfeng/Work/Chord_Cloud_android/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/support-v4-18.0.0-757b10c4e10443114e80a3027c10051f8add556d.jar
+/Users/williamfeng/Work/Chord_Cloud_android/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-bda61b8a6f7bd414a9f93c1b21edadbc8f143cd9.jar

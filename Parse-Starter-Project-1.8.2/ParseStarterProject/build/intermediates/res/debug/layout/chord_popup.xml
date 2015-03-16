@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/chordViewPager"
+        android:layout_width="225dp"
+        android:layout_height="200dp"
+        android:paddingTop="8dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/chordDialogConfirmButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/confirm"/>
+
+</LinearLayout><!-- From: file:/Users/williamfeng/Work/Chord_Cloud_android/Parse-Starter-Project-1.8.2/ParseStarterProject/res/layout/chord_popup.xml -->
